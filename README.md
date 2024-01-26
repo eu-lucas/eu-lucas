@@ -6,8 +6,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LRPT1A&show_icons=true&hide_border=true&title_color=8A53B1FF&icon_color=8A53B1FF&text_color=c9d1d9&bg_color=0d1117" alt="ikki-jk github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikki-jk&layout=compact&hide_border=true&title_color=8A53B1FF&text_color=8A53B1FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eu-lucas&show_icons=true&hide_border=true&title_color=8A53B1FF&icon_color=8A53B1FF&text_color=c9d1d9&bg_color=0d1117" alt="eu-lucas github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-lucas&layout=compact&hide_border=true&title_color=8A53B1FF&text_color=8A53B1FF&bg_color=0d1117" />
 </div>
 <a href="https://www.instagram.com/lucas_jjkkj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-2f3136?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://discord.com/invite/wQGtXQfUTe" target="_blank"><img src="https://img.shields.io/badge/Discord-2f3136?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
