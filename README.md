@@ -2,8 +2,8 @@
 <h1 align="center"> Hello Devs!!</h1>
 <h3 align="center">I'm a small developer who loves coffee. I love playing minecraft and currently I program websites and bots for fun!!!</h3>
 
-- 📚 Learning new things and improving what I already know;
-- 🌻 reinventing myself with every mistake;
+- 🎨 Front-end developer.
+- 📚 Learning Javascript.
 
 
 <div align="center">  
@@ -14,7 +14,7 @@
 <a href="https://discord.com/invite/wQGtXQfUTe" target="_blank"><img src="https://img.shields.io/badge/Discord-2f3136?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 <div style="display: inline_block"><br>
-  <h1> Improving myself in:</h1>
+  <h1>experiences:</h1>
     <img align="center" alt="Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
